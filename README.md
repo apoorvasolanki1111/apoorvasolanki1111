@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoorva Singh
 - 👀 I’m interested in making websites 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and looking forward to learn more in data science
 - 💞️ I’m looking to collaborate on making websites and webpages
 - 📫 How to reach me : you can email me on apoorvasolanki1111@gmail.com
 
